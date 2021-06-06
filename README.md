@@ -15,7 +15,7 @@
 
 <div align="Center"><h1> Machine Learning Models and Algorithms </h1></div>
 <div align="center">
-    <img src="https://www.fleetscience.org/sites/default/files/images/neural-mlblog.gif">
+    <img src="https://i.imgur.com/wyNgSnk.gif">
 </div>
 
 ---
