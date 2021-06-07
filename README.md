@@ -34,6 +34,7 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
     *  [Regresión Lineal con ScikitLearn](#)
     *  [Regresión logística con ScikitLearn]()
 2.  [Árboles de decisión](#)
+    *  [Árbol de decisión con data set Titanic](#)
 3.  [Clustering](#)
 4.  [Descenso de Gradiente](#)
     *   [Descenso del Gradiente - Curso de Cálculo](#)
