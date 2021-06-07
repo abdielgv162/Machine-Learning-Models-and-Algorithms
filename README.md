@@ -41,6 +41,7 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
 4.  [Descenso de Gradiente](#)
     *   [Descenso del Gradiente - Curso de Cálculo](#)
 5.  [Redes neuronales](#)
+    * [Clasificador de Ropa Fashion MNIST](#)
 
 
 
