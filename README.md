@@ -29,19 +29,19 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
 
 ## Contenidos:
 
-1.  [Regresión](#)
-    *  [Regresión Lineal y ECM](#)
-    *  [Regresión Lineal con ScikitLearn](#)
-    *  [Regresión logística con ScikitLearn]()
-2.  [Árboles de decisión](#)
-    *  [Árbol de decisión con data set Titanic](#)
-3.  [Clustering](#)
-    * [K-Means usando data set Iris](#)
-    * [K-Means usando data set Wines](#)
-4.  [Descenso de Gradiente](#)
-    *   [Descenso del Gradiente - Curso de Cálculo](#)
-5.  [Redes neuronales](#)
-    * [Clasificador de Ropa Fashion MNIST](#)
+1.  [Regresión](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Regresion)
+    *  [Regresión Lineal y ECM](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Regresion/Regresion_Lineal_y_ECM.ipynb)
+    *  [Regresión Lineal con ScikitLearn](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Regresion/Regresion_Lineal_ScikitLearn.ipynb)
+    *  [Regresión logística con ScikitLearn](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Regresion/Regresion_Logistica.ipynb)
+2.  [Árboles de decisión](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Arboles_de_decision)
+    *  [Árbol de decisión con data set Titanic](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Arboles_de_decision/Arbol_de_decision_Titanic.ipynb)
+3.  [Clustering](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Clustering)
+    * [K-Means usando data set Iris](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Clustering/K_Means_usando_Iris.ipynb)
+    * [K-Means usando data set Wines](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Clustering/K_Means_con_Dataset_Wines.ipynb)
+4.  [Descenso de Gradiente](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Descenso_del_Gradiente)
+    *   [Descenso del Gradiente - Curso de Cálculo](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Descenso_del_Gradiente/Descenso_del_Gradiente_Curso_Calculo.ipynb)
+5.  [Redes neuronales](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Redes_neuronales)
+    * [Clasificador de Ropa Fashion MNIST](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Redes_neuronales/Clasificador_de_Ropa_TensorFlow.ipynb)
 
 
 
