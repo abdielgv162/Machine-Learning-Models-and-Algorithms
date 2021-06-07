@@ -27,11 +27,12 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
 
 
 
-## Orden de contenidos
+## Contenidos:
 
 1.  [Regresión](#)
 2.  [Clustering](#)
-3.  [Redes neuronales](#)
+3.  [Descenso de Gradiente](#)
+4.  [Redes neuronales](#)
 
 
 
