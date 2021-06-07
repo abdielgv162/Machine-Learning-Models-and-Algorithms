@@ -30,9 +30,14 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
 ## Contenidos:
 
 1.  [Regresión](#)
-2.  [Clustering](#)
-3.  [Descenso de Gradiente](#)
-4.  [Redes neuronales](#)
+    *  [Regresión Lineal y ECM](#)
+    *  [Regresión Lineal con ScikitLearn](#)
+    *  [Regresión logística con ScikitLearn]()
+2.  [Árboles de decisión](#)
+3.  [Clustering](#)
+4.  [Descenso de Gradiente](#)
+    *   [Descenso del Gradiente - Curso de Cálculo](#)
+5.  [Redes neuronales](#)
 
 
 
