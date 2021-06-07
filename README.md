@@ -36,6 +36,8 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
 2.  [Árboles de decisión](#)
     *  [Árbol de decisión con data set Titanic](#)
 3.  [Clustering](#)
+    * [K-Means usando Iris](#)
+    * [K-Means usando wines](#)
 4.  [Descenso de Gradiente](#)
     *   [Descenso del Gradiente - Curso de Cálculo](#)
 5.  [Redes neuronales](#)
