@@ -42,14 +42,14 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
     *   [Descenso del Gradiente - Curso de Cálculo](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Descenso_del_Gradiente/Descenso_del_Gradiente_Curso_Calculo.ipynb)
 5.  [Redes neuronales](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Redes_neuronales)
     * [Clasificador de Ropa Fashion MNIST](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Redes_neuronales/Clasificador_de_Ropa_TensorFlow.ipynb)
-6.  [IA Notebook - Dot CSV](#)
-    * [ Regresión Lineal y Mínimos Cuadrados Ordinarios](#)
-    * [Ataques adversarios, cómo romper una RED NEURONAL](#)
-    * [Descenso del Gradiente (Gradient Descent)](#)
-    * [Programando Red Neuronal desde Cero](#)
-    * [ Generando FLORES realistas con IA - Pix2Pix](#)
-    * [ Juego de La Vida](#)
-    * [COPIA de notebook VQGAN+CLIP](#)
+6.  [IA Notebook - Dot CSV](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Dot_CSV_IA_Notebooks)
+    * [ Regresión Lineal y Mínimos Cuadrados Ordinarios](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/regresion_lineal_minimos_cuadrados_ordinarios.ipynb)
+    * [Ataques adversarios, cómo romper una RED NEURONAL](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/ataques_adversarios.ipynb)
+    * [Descenso del Gradiente (Gradient Descent)](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/descenso_del_gradiente.ipynb)
+    * [Programando Red Neuronal desde Cero](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/red_neuronal.ipynb)
+    * [ Generando FLORES realistas con IA - Pix2Pix](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/Pix2Pix.ipynb)
+    * [ Juego de La Vida](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/Juego_de_la_vida.ipynb)
+    * [COPIA de notebook VQGAN+CLIP](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/Copia_de_VQGAN%2BCLIP_(z%2Bquantize_method_con_augmentations).ipynb)
 
 
 
