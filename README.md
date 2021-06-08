@@ -42,7 +42,14 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
     *   [Descenso del Gradiente - Curso de Cálculo](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Descenso_del_Gradiente/Descenso_del_Gradiente_Curso_Calculo.ipynb)
 5.  [Redes neuronales](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Redes_neuronales)
     * [Clasificador de Ropa Fashion MNIST](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Redes_neuronales/Clasificador_de_Ropa_TensorFlow.ipynb)
-
+6.  [IA Notebook - Dot CSV](#)
+    * [ Regresión Lineal y Mínimos Cuadrados Ordinarios](#)
+    * [Ataques adversarios, cómo romper una RED NEURONAL](#)
+    * [Descenso del Gradiente (Gradient Descent)](#)
+    * [Programando Red Neuronal desde Cero](#)
+    * [ Generando FLORES realistas con IA - Pix2Pix](#)
+    * [ Juego de La Vida](#)
+    * [COPIA de notebook VQGAN+CLIP](#)
 
 
 
