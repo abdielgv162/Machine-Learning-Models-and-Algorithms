@@ -15,7 +15,7 @@
 
 <div align="Center"><h1> Machine Learning Models and Algorithms </h1></div>
 <div align="center">
-    <img src="https://i1.wp.com/www.marktechpost.com/wp-content/uploads/2019/12/decoding_error.gif?fit=1680%2C840&ssl=1">
+    <img src="https://miro.medium.com/max/3034/1*WI43epHjl6I6FzBVPzvXAQ.gif">
 </div>
 
 
